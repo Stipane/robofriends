@@ -1,3 +1,5 @@
+// This creates a search box
+
 import React from "react";
 
 const SearchBox = ({searchfield, searchChange}) => {

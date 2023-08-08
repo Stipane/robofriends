@@ -1,3 +1,5 @@
+// This defines the content/structure of the robot card
+
 import React from "react";
 
 const Card = ({name, email, id}) => {
